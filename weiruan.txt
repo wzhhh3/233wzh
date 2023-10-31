@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 123
+=======
+123
+adasd
+>>>>>>> 5eb7c0b44a3bbb8f7091efde043bea5c474e33ea
